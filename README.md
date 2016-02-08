@@ -23,7 +23,7 @@
 
 ###高速なインターネット環境はあるか。
 
-スカイプや<a href="https://www.sqwiggle.com/" target="_blank">Sqwiggle</a>などを使用していると、どうしても速度が必要になってきます。これはリモートワークという意味でも必須ですが、Webの仕事をしていた場合はなおさらです。<a href="http://blog.mmmcorp.co.jp/blog/2015/04/30/bangkok_remote_work/" target="_blank">よいコワーキングスペースを探したり</a>、時には<a href="http://blog.mmmcorp.co.jp/blog/2015/06/18/shanghai_remote_work/" target="_blank">VPNサーバーを構築したりして</a>、安定したネット環境を確保したいですね。
+スカイプなどを使用していると、どうしても速度が必要になってきます。<a href="http://blog.mmmcorp.co.jp/blog/2015/04/30/bangkok_remote_work/" target="_blank">よいコワーキングスペースを探したり</a>、時には<a href="http://blog.mmmcorp.co.jp/blog/2015/06/18/shanghai_remote_work/" target="_blank">VPNサーバーを構築したりして</a>、安定したネット環境を確保したいです。
 
 ###マシンが壊れたときのバックアップができる環境はあるか。
 
@@ -37,9 +37,14 @@
 
 ###時差があり過ぎないか。
 
-時差を合わせる必要がある場合は、さすがに深夜にスカイプするわけにはいきません。
+時差が大きい場合は工夫が必要になってきます。
 
-###気候は自分にあっているか（寒暖、乾湿など）。
+* [日本のチームとリモートワークをした話@シリコンバレー](http://blog.mmmcorp.co.jp/blog/2015/12/08/remote-work-in-SV/)
+* [Mackerelチームのリモートワーク体制における日報とデイリースクラム - Hatena Developer Blog](http://developer.hatenastaff.com/entry/2015/07/05/174343)
+* [リモートワークでの「非同期」の勧め - Qiita](http://qiita.com/jj1bdx/items/e36fa34306a6f88a4eeb)
+
+
+###気候は自分にあっているか(寒暖、乾湿など)。
 
 快適に過ごすためには気候を知る必要があります。例えば、なるべく涼しい国で仕事をしたい、乾燥肌なので日差しが強くない場所がいい、など。
 
@@ -59,9 +64,9 @@
 
 宿はあまり詳しくないですが、以下のようなサイトがあります。
 
-* <a href="http://www.momondo.com/hotels/" target="_blank">momondo</a>
-* <a href="http://www.booking.com/index.ja.html" target="_blank">Booking.com</a>
 * <a href="https://www.airbnb.jp/" target="_blank">Airbnb</a>
+* <a href="http://www.booking.com/index.ja.html" target="_blank">Booking.com</a>
+* <a href="http://www.momondo.com/hotels/" target="_blank">momondo</a>
 
 物価は、食費に関しては自炊をすればなんとかなると思いますが、長期の場合、交通費や外食代を調べておいたほうが良いでしょう。
 
@@ -79,7 +84,7 @@
 
 ###言葉は通じるか。
 
-英語か日本語が通じるのかどうかを事前に確認しておきましょう。
+日本語や英語が通じるのかどうかを事前に確認しておきましょう。
 
 
 ##まとめ
